@@ -6,5 +6,3 @@ def my_each(num_arr)
   end
   num_arr
 end
-
-
