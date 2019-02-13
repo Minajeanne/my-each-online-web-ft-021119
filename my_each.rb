@@ -10,3 +10,4 @@ def yielding_with_arguments(num)
   puts "now we are back in the method"
 end
 
+yielding_with_arguments(3)
