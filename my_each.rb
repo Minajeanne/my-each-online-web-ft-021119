@@ -7,6 +7,6 @@ def my_each(num_arr)
   num_arr
 end
 
-[1,2,3,4].each do |x| {
+[1,2,3,4].each do |x| 
   puts x
-}
+end
